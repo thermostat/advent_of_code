@@ -1,2 +1,6 @@
-# advent_of_code
-Advent of Code
+# Advent of Code
+
+December [coding puzzle site](https://adventofcode.com/)
+
+
+
