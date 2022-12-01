@@ -6,5 +6,5 @@ December [coding puzzle site](https://adventofcode.com/)
 
 2022
 
-1. [Day 1](2022/aoc22-01.ipynb)
+1. [Day 1](2022/aoc22-day01.ipynb)
 
