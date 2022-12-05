@@ -1,3 +1,6 @@
+
+![menorah on mantle](2022/media/menorah_banner.JPG)
+
 # Advent of Code
 
 December [coding puzzle site](https://adventofcode.com/)
